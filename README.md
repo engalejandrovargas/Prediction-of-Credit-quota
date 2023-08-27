@@ -1,5 +1,5 @@
 # Prediction-of-Credit-quota
-Based on Based on the financial information of real companies, it seeks to generate a prediction model of the credit quota that could be assigned.
+Based on the financial information of real companies, it seeks to generate a prediction model of the credit quota that could be assigned.
 
 KEY POINTS
 * Inside the cells of the Excel data there is an internal dictionary that displays the financial content of each company.
