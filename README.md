@@ -2,9 +2,9 @@
 Based on Based on the financial information of real companies, it seeks to generate a prediction model of the credit quota that could be assigned.
 
 KEY POINTS
-* The Inside cell has an internal dictionary that displays the financial content of each company.
+* Inside the cells of the Excel data there is an internal dictionary that displays the financial content of each company.
 * Both P&Gs and balance sheets are different for each company, so it was necessary to find a method to keep all the information of each company.
-* Most of the fields and information provided for each company are different. So, in other words same variables probably has a different name.
+* Most of the fields and information provided for each company are different. So, in other words same variables probably have a different name.
 
 This is an example of the P&G of some company:
 
@@ -20,6 +20,8 @@ Variance ratio: 0.990239339009448
 Dimensions required for a variance of 0.99%: 190
 
 ![image](https://github.com/engalejandrovargas/Prediction-of-Credit-quota/assets/77429377/f9fbc919-74a7-4e36-b601-7f7cbd28eef1)
+
+
 
 
 
