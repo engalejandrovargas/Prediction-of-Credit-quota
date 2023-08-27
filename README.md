@@ -23,18 +23,16 @@ Dimensions required for a variance of 0.99%: 190
 
 To initially check how different algorithms behave, orange software was used:
 
-Clasification
 ![image](https://github.com/engalejandrovargas/Prediction-of-Credit-quota/assets/77429377/4ccbe546-59b6-479b-baf9-b23758ff2a0c)
-
-Regresion
-![image](https://github.com/engalejandrovargas/Prediction-of-Credit-quota/assets/77429377/e093bb23-e68d-425c-8d42-4c8265462372)
 
 The quota was skewed to the right. This is a problem because most ML models do not work well with data that is not normally distributed. Was applied a log(1+x) transformation to correct the bias.
 Finally the RMSE Score was compared:
 
 ![image](https://github.com/engalejandrovargas/Prediction-of-Credit-quota/assets/77429377/bde3634f-948b-496c-aa19-d44343f2a9b4)
 
+Please have a look to the notebook for detailed information.
 
+Thanks!!
 
 
 
